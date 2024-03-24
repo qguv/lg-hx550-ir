@@ -1,0 +1,345 @@
+Filetype: IR signals file
+Version: 1
+
+name: blank (E1)
+type: parsed
+protocol: Samsung32
+address: 2C 00 00 00
+command: E1 00 00 00
+
+name: blank (E2)
+type: parsed
+protocol: Samsung32
+address: 2C 00 00 00
+command: E2 00 00 00
+
+name: blank (E3)
+type: parsed
+protocol: Samsung32
+address: 2C 00 00 00
+command: E3 00 00 00
+
+name: blank (E4)
+type: parsed
+protocol: Samsung32
+address: 2C 00 00 00
+command: E4 00 00 00
+
+name: blank (E5)
+type: parsed
+protocol: Samsung32
+address: 2C 00 00 00
+command: E5 00 00 00
+
+name: blank (E6)
+type: parsed
+protocol: Samsung32
+address: 2C 00 00 00
+command: E6 00 00 00
+
+name: blank (E7)
+type: parsed
+protocol: Samsung32
+address: 2C 00 00 00
+command: E7 00 00 00
+
+name: blank (E8)
+type: parsed
+protocol: Samsung32
+address: 2C 00 00 00
+command: E8 00 00 00
+
+name: blank (E9)
+type: parsed
+protocol: Samsung32
+address: 2C 00 00 00
+command: E9 00 00 00
+
+name: noop (00)
+type: parsed
+protocol: Samsung32
+address: 2C 00 00 00
+command: 00 00 00 00
+
+name: noop (03)
+type: parsed
+protocol: Samsung32
+address: 2C 00 00 00
+command: 03 00 00 00
+
+name: noop (0B)
+type: parsed
+protocol: Samsung32
+address: 2C 00 00 00
+command: 0B 00 00 00
+
+name: noop (1D)
+type: parsed
+protocol: Samsung32
+address: 2C 00 00 00
+command: 1D 00 00 00
+
+name: noop (34)
+type: parsed
+protocol: Samsung32
+address: 2C 00 00 00
+command: 34 00 00 00
+
+name: noop (3C)
+type: parsed
+protocol: Samsung32
+address: 2C 00 00 00
+command: 3C 00 00 00
+
+name: noop (3F)
+type: parsed
+protocol: Samsung32
+address: 2C 00 00 00
+command: 3F 00 00 00
+
+name: noop (4A)
+type: parsed
+protocol: Samsung32
+address: 2C 00 00 00
+command: 4A 00 00 00
+
+name: noop (4D)
+type: parsed
+protocol: Samsung32
+address: 2C 00 00 00
+command: 4D 00 00 00
+
+name: noop (59)
+type: parsed
+protocol: Samsung32
+address: 2C 00 00 00
+command: 59 00 00 00
+
+name: noop (5E)
+type: parsed
+protocol: Samsung32
+address: 2C 00 00 00
+command: 5E 00 00 00
+
+name: noop (60)
+type: parsed
+protocol: Samsung32
+address: 2C 00 00 00
+command: 60 00 00 00
+
+name: noop (61)
+type: parsed
+protocol: Samsung32
+address: 2C 00 00 00
+command: 61 00 00 00
+
+name: noop (62)
+type: parsed
+protocol: Samsung32
+address: 2C 00 00 00
+command: 62 00 00 00
+
+name: noop (71)
+type: parsed
+protocol: Samsung32
+address: 2C 00 00 00
+command: 71 00 00 00
+
+name: noop (74)
+type: parsed
+protocol: Samsung32
+address: 2C 00 00 00
+command: 74 00 00 00
+
+name: noop (79)
+type: parsed
+protocol: Samsung32
+address: 2C 00 00 00
+command: 79 00 00 00
+
+name: noop (7A)
+type: parsed
+protocol: Samsung32
+address: 2C 00 00 00
+command: 7A 00 00 00
+
+name: noop (7E)
+type: parsed
+protocol: Samsung32
+address: 2C 00 00 00
+command: 7E 00 00 00
+
+name: noop (82)
+type: parsed
+protocol: Samsung32
+address: 2C 00 00 00
+command: 82 00 00 00
+
+name: noop (86)
+type: parsed
+protocol: Samsung32
+address: 2C 00 00 00
+command: 86 00 00 00
+
+name: noop (8B)
+type: parsed
+protocol: Samsung32
+address: 2C 00 00 00
+command: 8B 00 00 00
+
+name: noop (8C)
+type: parsed
+protocol: Samsung32
+address: 2C 00 00 00
+command: 8C 00 00 00
+
+name: noop (A1)
+type: parsed
+protocol: Samsung32
+address: 2C 00 00 00
+command: A1 00 00 00
+
+name: noop (AD)
+type: parsed
+protocol: Samsung32
+address: 2C 00 00 00
+command: AD 00 00 00
+
+name: noop (AE)
+type: parsed
+protocol: Samsung32
+address: 2C 00 00 00
+command: AE 00 00 00
+
+name: noop (B1)
+type: parsed
+protocol: Samsung32
+address: 2C 00 00 00
+command: B1 00 00 00
+
+name: noop (B2)
+type: parsed
+protocol: Samsung32
+address: 2C 00 00 00
+command: B2 00 00 00
+
+name: noop (B3)
+type: parsed
+protocol: Samsung32
+address: 2C 00 00 00
+command: B3 00 00 00
+
+name: noop (B4)
+type: parsed
+protocol: Samsung32
+address: 2C 00 00 00
+command: B4 00 00 00
+
+name: noop (BB)
+type: parsed
+protocol: Samsung32
+address: 2C 00 00 00
+command: BB 00 00 00
+
+name: noop (BC)
+type: parsed
+protocol: Samsung32
+address: 2C 00 00 00
+command: BC 00 00 00
+
+name: noop (CF)
+type: parsed
+protocol: Samsung32
+address: 2C 00 00 00
+command: CF 00 00 00
+
+name: noop (D4)
+type: parsed
+protocol: Samsung32
+address: 2C 00 00 00
+command: D4 00 00 00
+
+name: noop (D5)
+type: parsed
+protocol: Samsung32
+address: 2C 00 00 00
+command: D5 00 00 00
+
+name: noop (D6)
+type: parsed
+protocol: Samsung32
+address: 2C 00 00 00
+command: D6 00 00 00
+
+name: noop (EB)
+type: parsed
+protocol: Samsung32
+address: 2C 00 00 00
+command: EB 00 00 00
+
+name: noop (EC)
+type: parsed
+protocol: Samsung32
+address: 2C 00 00 00
+command: EC 00 00 00
+
+name: noop (ED)
+type: parsed
+protocol: Samsung32
+address: 2C 00 00 00
+command: ED 00 00 00
+
+name: noop (EE)
+type: parsed
+protocol: Samsung32
+address: 2C 00 00 00
+command: EE 00 00 00
+
+name: noop (EF)
+type: parsed
+protocol: Samsung32
+address: 2C 00 00 00
+command: EF 00 00 00
+
+name: noop (F2)
+type: parsed
+protocol: Samsung32
+address: 2C 00 00 00
+command: F2 00 00 00
+
+name: noop (F3)
+type: parsed
+protocol: Samsung32
+address: 2C 00 00 00
+command: F3 00 00 00
+
+name: noop (F4)
+type: parsed
+protocol: Samsung32
+address: 2C 00 00 00
+command: F4 00 00 00
+
+name: noop (F5)
+type: parsed
+protocol: Samsung32
+address: 2C 00 00 00
+command: F5 00 00 00
+
+name: noop (FA)
+type: parsed
+protocol: Samsung32
+address: 2C 00 00 00
+command: FA 00 00 00
+
+name: noop (FB)
+type: parsed
+protocol: Samsung32
+address: 2C 00 00 00
+command: FB 00 00 00
+
+name: noop (FE)
+type: parsed
+protocol: Samsung32
+address: 2C 00 00 00
+command: FE 00 00 00
+
