@@ -1,0 +1,39 @@
+Filetype: IR signals file
+Version: 1
+
+name: Factory reset
+type: parsed
+protocol: Samsung32
+address: 2C 00 00 00
+command: EA 00 00 00
+
+name: Debug
+type: parsed
+protocol: Samsung32
+address: 2C 00 00 00
+command: F0 00 00 00
+
+name: Test SPK
+type: parsed
+protocol: Samsung32
+address: 2C 00 00 00
+command: F1 00 00 00
+
+name: Display test, power
+type: parsed
+protocol: Samsung32
+address: 2C 00 00 00
+command: F7 00 00 00
+
+name: Sound effect (no menu)
+type: parsed
+protocol: Samsung32
+address: 2C 00 00 00
+command: 35 00 00 00
+
+name: Home, Stop
+type: parsed
+protocol: Samsung32
+address: 2C 00 00 00
+command: 67 00 00 00
+
